@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertDialogExample</string>
+    <string name="title_stirng">Navigation</string>
+    <string name="message_text">Are You sure to move ?</string>
+</resources>
